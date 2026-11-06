@@ -1,24 +1,4 @@
 plugins {
-    kotlin("jvm") version "2.0.0"
-    application
-}
-
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    testImplementation(kotlin("test"))
-}
-
-application {
-    mainClass.set("MainKt")
-}
-
-kotlin {
-    jvmToolchain(21)
-}
-
-tasks.named<JavaExec>("run") {
-    standardInput = System.`in`
+    id("com.android.application") version "8.5.0" apply false
+    id("org.jetbrains.kotlin.android") version "2.0.0" apply false
 }
