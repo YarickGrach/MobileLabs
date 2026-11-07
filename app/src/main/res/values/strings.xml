@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Tutorial Empty Activity 4.0.1</string>
+    <string name="app_name">ToastHandler</string>
+    <string name="button_ok">OK</string>
+    <string name="toast_text">Кнопка ОК</string>
 </resources>
