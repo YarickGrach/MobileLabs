@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Tutorial Empty Activity 4.0.1</string>
+    <string name="app_name">Attributes</string>
+    <string name="sample_text">Sample Text</string>
+    <string name="btn_black_text">Чёрный текст</string>
+    <string name="btn_red_text">Красный текст</string>
+    <string name="btn_size_8sp">Размер - 8sp</string>
+    <string name="btn_size_24sp">Размер - 24sp</string>
+    <string name="btn_white_bg">Белый фон</string>
+    <string name="btn_yellow_bg">Жёлтый фон</string>
 </resources>
